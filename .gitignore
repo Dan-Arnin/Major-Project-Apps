@@ -1,0 +1,36 @@
+# Compiled source code
+*.pyc
+*.class
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+streamlit/
+env/
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+secrets.json
+
+# Node.js files
+node_modules/
+
+# Python package files
+__pycache__/
+*.egg-info/
+
+# Other files
+*.tmp
+*.bak
+*.swp
